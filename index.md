@@ -1,1 +1,2 @@
-# Scola Overo Teatro<br>School, In Other Words Theater
+# Scola Overo Teatro
+School, or Rather Theater
