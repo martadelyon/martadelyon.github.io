@@ -1,8 +1,8 @@
 # Introduction
 
-I am doing this translation for fun, the joy of analysis, and a better understanding of the time, origin, and practice of one of my favorite martial arts forms.  I am just beginning to look through this text page by page, and figure out what format works to capture my thoughts, so be prepared for many changes and iterations to the form and function of this page.
+I am doing this translation for fun, the joy of analysis, and a better understanding of the time, origin, and practice of one of my favorite martial arts forms.  I am just beginning to look through this text in its original Italian, and figure out what format works here on this page to capture my thoughts, so be prepared for many changes and iterations to form and function on this page.
 
-If you would like to discuss, throw stones at, or generally be enthused about the work I'm doing (I think it is exciting and interesting, at least!), feel free to leave a post or comment in the Issues section of my GitHub.  https://github.com/martadelyon/martadelyon.github.io/issues
+If you would like to discuss, throw stones at, or generally be enthused about the work I'm doing (I think it is exciting and interesting, at least!), feel free to leave a post or comment in the [Issues section of my GitHub](https://github.com/martadelyon/martadelyon.github.io/issues).
 
 ---
 # Table of Contents
