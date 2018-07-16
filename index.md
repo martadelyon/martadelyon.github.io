@@ -7,7 +7,7 @@ If you would like to discuss, throw stones at, or generally be enthused about th
 ---
 # Table of Contents
 1. [*Scola, Overo Teatro* - School, or rather Theater](#Scola Overo Teatro - School, or rather Theater)
-  1. [*Delle Guardie e Contraguardie* - Of Guards and Counterguards](# *Delle Guardie e Contraguardie* - Of Guards and Counterguards)
+  - [*Delle Guardie e Contraguardie* - Of Guards and Counterguards](# *Delle Guardie e Contraguardie* - Of Guards and Counterguards)
 2. [Footnotes and analysis](#Footnotes and analysis)
 
 # *Scola Overo Teatro* - School, or rather Theater
