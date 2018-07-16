@@ -6,15 +6,14 @@ If you would like to discuss, throw stones at, or generally be enthused about th
 
 ---
 # Table of Contents
-1. [*Scola, Overo Teatro* | School, or rather Theater](#Scola Overo Teatro | School, or rather Theater)
-  1. [*Delle Guardie e Contraguardie* | Of Guards and Counterguards](# *Delle Guardie e Contraguardie* | Of Guards and Counterguards)
-2. [Footnotes and analysis](#footnotes and analysis)
+1. [*Scola, Overo Teatro* - School, or rather Theater](#Scola Overo Teatro - School, or rather Theater)
+  1. [*Delle Guardie e Contraguardie* - Of Guards and Counterguards](# *Delle Guardie e Contraguardie* - Of Guards and Counterguards)
+2. [Footnotes and analysis](#Footnotes and analysis)
 
-# *Scola Overo Teatro* | School, or rather Theater
+# *Scola Overo Teatro* - School, or rather Theater
 
+## *Delle Guardie e Contraguardie* - Of Guards and Counterguards
 ![Giganti, Page 1](/pages/giganti/giganti1.png)
-
-## *Delle Guardie e Contraguardie* | Of Guards and Counterguards
 
 *Volendo alcuno farsi professore della scientia dell'armi, gli è necessario conscere molte cose, & per dare à trattare delle guardie, & contraguardie, ò vogliamo dire posture, & contraposture della Spada; & questo, perche vendosia qualche accidente di questione, è necessario consocere prima questo per potersi contra l'inimico afficurare.*
 
