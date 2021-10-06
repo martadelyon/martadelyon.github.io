@@ -1,6 +1,6 @@
 ---
 title: Embroidery
-order: 1
+order: 2
 cover-photo: images/embroidery/spinster_cover.jpg
 cover-photo-alt: "embroidery"
 hide: False
