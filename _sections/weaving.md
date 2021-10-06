@@ -5,3 +5,5 @@ cover-photo: images/weaving/belt.jpg
 cover-photo-alt: "black silk tablet woven belt"
 hide: False
 ---
+
+I like to weave things ...sometimes.
