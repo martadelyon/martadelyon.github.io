@@ -1,2 +1,5 @@
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]
+cover-photo: images/marta.jpg
 categories: Weaving, Embroidery
